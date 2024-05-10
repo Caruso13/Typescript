@@ -1,6 +1,6 @@
 "use strict";
 function retornaNome() {
-    const nome = 'Ângelo';
+    const nome:string = 'Ângelo';
     console.log('Ola + ', nome)
 
 }
